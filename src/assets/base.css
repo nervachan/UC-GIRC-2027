@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=Sora:wght@300;400;500;600&display=swap');
+
+:root {
+  color-scheme: light;
+  --brand-forest: #173218;
+  --brand-canopy: #2b502b;
+  --brand-moss: #3a6a3a;
+  --brand-sand: #f3f1e7;
+  --brand-ink: #0f1a0f;
+  --brand-cream: #fbfaf6;
+  --brand-glow: rgba(255, 255, 255, 0.7);
+
+  --color-background: var(--brand-cream);
+  --color-background-soft: #efece0;
+  --color-background-mute: #e3ddcf;
+  --color-border: rgba(23, 50, 24, 0.24);
+  --color-border-hover: rgba(23, 50, 24, 0.4);
+  --color-heading: var(--brand-forest);
+  --color-text: var(--brand-ink);
+
+  --shadow-soft: 0 18px 45px rgba(16, 34, 16, 0.12);
+  --radius-lg: 24px;
+  --radius-md: 16px;
+  --radius-sm: 10px;
+  --section-gap: 88px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+}
+
+body {
+  min-height: 100vh;
+  color: var(--color-text);
+  background:
+    radial-gradient(circle at top left, rgba(43, 80, 43, 0.12), transparent 55%),
+    radial-gradient(circle at 85% 20%, rgba(23, 50, 24, 0.12), transparent 48%),
+    linear-gradient(120deg, var(--brand-cream) 0%, var(--brand-sand) 48%, #f6f1e6 100%);
+  transition:
+    color 0.5s,
+    background-color 0.5s;
+  line-height: 1.6;
+  font-family:
+    'Sora',
+    'Segoe UI',
+    sans-serif;
+  font-size: 16px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: 'Cormorant Garamond', 'Times New Roman', serif;
+  color: var(--color-heading);
+  letter-spacing: 0.01em;
+}
+
+p {
+  margin: 0;
+}
