@@ -24,7 +24,6 @@
           <a href="#about">About</a>
           <a href="#objectives">Objectives</a>
           <a href="#tracks">Tracks</a>
-          <a href="#timeline">Timeline</a>
           <a href="#sdgs">SDGs</a>
         </nav>
 
@@ -38,14 +37,15 @@
           <div class="hero-copy">
             <p class="eyebrow">Global Research Conference</p>
             <h1 id="hero-title">
-              University of the Cordilleras Global Conference on Innovation, Resilience, and Convergence
+              University of the Cordilleras Global Conference on Innovation, Resilience, and
+              Convergence
             </h1>
             <p class="hero-theme">
-              “Converging Knowledge, Technology, and Communities for Resilient, Sustainable, and Inclusive Futures”
+              “Converging Knowledge, Technology, and Communities for Resilient, Sustainable, and
+              Inclusive Futures”
             </p>
             <div class="hero-actions">
               <a class="button primary" href="#call-for-papers">Call for Papers</a>
-              <a class="button ghost" href="#timeline">View Timeline</a>
             </div>
             <p class="hero-meta">March 23–26, 2027 • University of the Cordilleras</p>
           </div>
@@ -78,21 +78,25 @@
             <p class="kicker">Background</p>
             <h2>Background and Rationale</h2>
             <p class="section-lead">
-              UC-GIRC is the flagship annual international research conference of the University of the Cordilleras,
-              uniting scholars, industry, and government to advance innovation, resilience, and convergence.
+              UC-GIRC is the flagship annual international research conference of the University of
+              the Cordilleras, uniting scholars, industry, and government to advance innovation,
+              resilience, and convergence.
             </p>
           </div>
           <details class="details">
             <summary>Read the full rationale</summary>
             <p>
-              In an era of rapid technological advancement, climate uncertainties, and complex socio-economic challenges,
-              higher education institutions play a critical role in generating knowledge, fostering innovation, and advancing
-              sustainable development. The convergence of disciplines across science, technology, governance, business, health,
-              and the social sciences is increasingly necessary to address global and local issues effectively.
+              In an era of rapid technological advancement, climate uncertainties, and complex
+              socio-economic challenges, higher education institutions play a critical role in
+              generating knowledge, fostering innovation, and advancing sustainable development. The
+              convergence of disciplines across science, technology, governance, business, health,
+              and the social sciences is increasingly necessary to address global and local issues
+              effectively.
             </p>
             <p>
-              The 2027 edition focuses on resilience and disaster risk reduction, aligned with the Sendai Framework and UNDRR
-              initiatives, while maintaining an inclusive scope for all UC colleges and disciplines.
+              The 2027 edition focuses on resilience and disaster risk reduction, aligned with the
+              Sendai Framework and UNDRR initiatives, while maintaining an inclusive scope for all
+              UC colleges and disciplines.
             </p>
           </details>
         </div>
@@ -104,7 +108,8 @@
             <p class="kicker">Call for Papers</p>
             <h2>Submit and Participate</h2>
             <p class="section-lead">
-              Share peer-reviewed research, applied innovation, and policy insights aligned with the UC-GIRC 2027 theme.
+              Share peer-reviewed research, applied innovation, and policy insights aligned with the
+              UC-GIRC 2027 theme.
             </p>
           </div>
           <div class="grid two">
@@ -142,7 +147,9 @@
             <ul>
               <li>Establish UC-GIRC as a globally recognized annual research conference.</li>
               <li>Provide a platform for high-quality, peer-reviewed research dissemination.</li>
-              <li>Promote interdisciplinary collaboration among academia, industry, and government.</li>
+              <li>
+                Promote interdisciplinary collaboration among academia, industry, and government.
+              </li>
               <li>Highlight innovation, resilience, and sustainability solutions.</li>
               <li>Strengthen UC’s contribution to QS, WURI, and THE Impact Rankings.</li>
               <li>Support Scopus-indexed proceedings and journal publication routes.</li>
@@ -250,78 +257,6 @@
               <li>Enhanced institutional visibility and rankings</li>
             </ul>
           </details>
-        </div>
-      </section>
-
-      <section id="timeline" class="section section-accent">
-        <div class="container">
-          <div class="section-header">
-            <p class="kicker">Timeline</p>
-            <h2>Timeline and Activity Plan</h2>
-            <p class="section-lead">Five phases from planning to publication.</p>
-          </div>
-          <div class="timeline">
-            <div class="timeline-item">
-              <div class="timeline-marker">Phase 1</div>
-              <div class="timeline-content">
-                <h3>Planning and Preparation (April–July 2026)</h3>
-                <ul>
-                  <li>Organizing committees and finalization of theme and branding</li>
-                  <li>Conference website and submission system</li>
-                  <li>Partnership building and Call for Papers launch</li>
-                  <li>Marketing and promotion</li>
-                </ul>
-              </div>
-            </div>
-            <div class="timeline-item">
-              <div class="timeline-marker">Phase 2</div>
-              <div class="timeline-content">
-                <h3>Submission and Review (Aug–Dec 2026)</h3>
-                <ul>
-                  <li>Abstract deadline: August 30, 2026</li>
-                  <li>Acceptance notification: September 15, 2026</li>
-                  <li>Full paper deadline: October 31, 2026</li>
-                  <li>Double-blind review and results by December 15, 2026</li>
-                </ul>
-              </div>
-            </div>
-            <div class="timeline-item">
-              <div class="timeline-marker">Phase 3</div>
-              <div class="timeline-content">
-                <h3>Finalization and Registration (Jan–Feb 2027)</h3>
-                <ul>
-                  <li>Final acceptance: January 15, 2027</li>
-                  <li>Camera-ready papers: January 30, 2027</li>
-                  <li>Author registration and program finalization</li>
-                  <li>Keynote and panel coordination</li>
-                </ul>
-              </div>
-            </div>
-            <div class="timeline-item">
-              <div class="timeline-marker">Phase 4</div>
-              <div class="timeline-content">
-                <h3>Conference Proper (March 23–26, 2027)</h3>
-                <ul>
-                  <li>Opening Ceremony and Keynote Sessions</li>
-                  <li>Parallel Technical Sessions (Themes 1–3)</li>
-                  <li>Parallel Sessions (Themes 4–5) and Innovation Sessions</li>
-                  <li>Closing Ceremony, Awards, and Networking</li>
-                </ul>
-              </div>
-            </div>
-            <div class="timeline-item">
-              <div class="timeline-marker">Phase 5</div>
-              <div class="timeline-content">
-                <h3>Post-Conference and Publication (Apr–Dec 2027)</h3>
-                <ul>
-                  <li>Proceedings compilation and indexing submissions</li>
-                  <li>Journal special issues and paper revisions</li>
-                  <li>Publication of selected papers</li>
-                  <li>Conference evaluation and UC-GIRC 2028 planning</li>
-                </ul>
-              </div>
-            </div>
-          </div>
         </div>
       </section>
 
