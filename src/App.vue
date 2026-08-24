@@ -35,14 +35,12 @@
       <section class="hero" aria-labelledby="hero-title">
         <div class="container hero-inner">
           <div class="hero-copy">
-            <p class="eyebrow">Global Research Conference</p>
+            <p class="eyebrow">University of the Cordilleras</p>
             <h1 id="hero-title">
-              University of the Cordilleras Global Conference on Innovation, Resilience, and
-              Convergence
+              International Conference on Smart Systems 2027
             </h1>
             <p class="hero-theme">
-              “Converging Knowledge, Technology, and Communities for Resilient, Sustainable, and
-              Inclusive Futures”
+              AIoT, Artificial Intelligence, and Digital Transformation for Natural Hazards and Resilient Futures
             </p>
             <div class="hero-actions">
               <a class="button primary" href="#call-for-papers">Call for Papers</a>
@@ -54,7 +52,7 @@
             <div class="stat-grid">
               <div class="stat-card">
                 <p class="stat-label">Tracks</p>
-                <p class="stat-value">5</p>
+                <p class="stat-value">4</p>
                 <p class="stat-note">Interdisciplinary research themes</p>
               </div>
               <div class="stat-card">
@@ -116,11 +114,10 @@
             <div class="card">
               <h3>Key Submission Dates</h3>
               <ul>
-                <li>Abstract deadline: August 30, 2026</li>
-                <li>Abstract notification: September 15, 2026</li>
-                <li>Full paper deadline: October 31, 2026</li>
-                <li>Review results: December 15, 2026</li>
-                <li>Camera-ready papers: January 30, 2027</li>
+                <li>Abstract deadline: September 30, 2026</li>
+                <li>Full Paper Submission: October 31, 2026</li>
+                <li>Camera-Ready Submission: January 30, 2027</li>
+                <li>Conference Dates: March 23 - 26, 2027</li>
               </ul>
             </div>
             <div class="card">
@@ -193,29 +190,25 @@
           <div class="grid three">
             <article class="card">
               <h3>Track 1</h3>
-              <p class="card-title">Smart Systems, AI, and Digital Transformation</p>
-              <p>Advanced technologies, intelligent systems, and digital innovation.</p>
+              <p class="card-title">AIoT, Machine Learning, and Data Analytics for Natural Hazards</p>
+              <p>AI, Machine Learning, predictive analytics, intelligent systems for hazard detection, forecasting, risk assessment, and emergency response.</p>
             </article>
             <article class="card">
               <h3>Track 2</h3>
-              <p class="card-title">Sustainability, Climate Action, and Disaster Resilience</p>
-              <p>Climate adaptation, environmental sustainability, and DRRM.</p>
+              <p class="card-title">Geoinformatics, Seismology, Remote Sensing, and Spatial Technologies</p>
+              <p>GIS, remote sensing, seismology, land surveying, and spatial technologies for hazard mapping and disaster risk reduction.</p>
             </article>
             <article class="card">
               <h3>Track 3</h3>
-              <p class="card-title">Governance, Policy, and Institutional Innovation</p>
-              <p>Governance systems, policy frameworks, and institutional development.</p>
+              <p class="card-title">Digital Transformation, Software Engineering, and Human-Centered Resilience</p>
+              <p>Digital Platforms, software systems, HCI, and community-centered technologies for preparedness, response, and recovery.</p>
             </article>
             <article class="card">
               <h3>Track 4</h3>
-              <p class="card-title">Business, Industry, and Entrepreneurial Ecosystems</p>
-              <p>Innovation, commercialization, and economic resilience.</p>
+              <p class="card-title">Sustainable Systems, Resilient Infrastructure, and CLimate Action</p>
+              <p>Resilient infrastructure, renewable energy, sensor systems, sustainable communities, and climate-responsive technologies.</p>
             </article>
-            <article class="card">
-              <h3>Track 5</h3>
-              <p class="card-title">Human Development, Culture, and Inclusive Communities</p>
-              <p>Health, education, social systems, and inclusive development.</p>
-            </article>
+
           </div>
         </div>
       </section>
